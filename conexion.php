@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "gestion_coches";
-$password = ""; // Cambia esto según tu configuración
+$password = "1234"; // Cambia esto según tu configuración
 $dbname = "gestion_coches";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
