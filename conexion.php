@@ -1,6 +1,6 @@
 <?php
 $servername = "localhost";
-$username = "root";
+$username = "gestion_coches";
 $password = ""; // Cambia esto según tu configuración
 $dbname = "gestion_coches";
 
